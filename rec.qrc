@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bug.png</file>
+        <file>img/close.png</file>
+        <file>img/file.png</file>
+        <file>img/home.png</file>
+        <file>img/set.png</file>
+        <file>img/obj.png</file>
+        <file>img/add.png</file>
+        <file>img/clear.png</file>
+        <file>img/copy-template.png</file>
+        <file>img/message.png</file>
+        <file>img/ok.png</file>
+        <file>img/paint_bold.png</file>
+        <file>img/save.png</file>
+        <file>img/sr.png</file>
+        <file>img/clock.png</file>
+        <file>img/mulu.png</file>
+    </qresource>
+</RCC>
