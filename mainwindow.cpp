@@ -99,6 +99,9 @@ void MainWindow::registerButtonClicked()
     }
     userTextEdit->clear();
     pwdTextEdit->clear();
+
+
+    //≤‚ ‘
 }
 
 
